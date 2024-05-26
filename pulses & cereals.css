@@ -1,0 +1,138 @@
+*{
+    text-decoration: none;
+}
+.mainfirst
+{
+    background-color: #ffffff; 
+    
+}
+.mainbar{
+    background: rgb(126, 92, 92);
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a
+{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+    justify-content:center;
+align-items:center;
+    
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    margin-right: 40px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.container
+{
+    display: flex;
+    column-gap: 30px;
+    /* align-items: center;
+    justify-items: center; */
+    position: absolute;
+  top: 20%;
+  left: 9%;
+  margin: -10px 0px 0px -70px;
+    
+}
+.container2
+{
+    display: flex;
+    column-gap: 30px;
+    position: absolute;
+    top: 100%;
+    left: 34%;
+    margin: -10px 0px 0px -70px;
+}
+.box1
+{
+    height: 400px;
+    width: 600px;
+    border-radius:50px ;
+    line-height: 35px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 32, 32);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+}
+img
+{
+    border-radius:50px ;
+}
+.box2
+{
+    height: 400px;
+    width: 600px;
+    border-radius:50px ;
+    line-height: 35px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 32, 32);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+}
+.box3
+{
+    height: 400px;
+    width: 600px;
+    border-radius:50px ;
+    line-height: 35px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 32, 32);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+}
+img
+{
+    border-radius:50px ;
+}
+
+.box1 button{
+    width: 100px;
+    line-height: 35px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(253, 77, 8);
+    line-height: 50px;
+    border: 1px solid rgb(253, 77, 8);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+    margin: 10px 0px 0px 230px;
+}
+.box2 button{
+    width: 100px;
+    line-height: 35px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(253, 77, 8);
+    line-height: 50px;
+    border: 1px solid rgb(253, 77, 8);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+    margin: 10px 0px 0px 230px;
+}
+.box3 button{
+    width: 100px;
+    line-height: 35px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(253, 77, 8);
+    line-height: 50px;
+    border: 1px solid rgb(253, 77, 8);
+    box-shadow: 0 2px 15px rgb(250, 120, 69);
+    margin: 10px 0px 0px 230px;
+}
+
